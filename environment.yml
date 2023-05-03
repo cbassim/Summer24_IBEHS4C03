@@ -1,3 +1,4 @@
+ls -a
 name: example-environment
 channels:
   - conda-forge
