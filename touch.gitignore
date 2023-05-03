@@ -1,2 +1,7 @@
 **/node_modules
 git rm -r --cached node_modules
+git commit -m "Removed node_modules folder"
+git push origin main
+git add .gitignore
+git commit -m "Updated the .gitignore file"
+git push origin main
